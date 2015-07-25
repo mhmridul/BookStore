@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">BookStore</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_dcrowd_splash">DcrowdSplashActivity</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_admin_home_page">AdminHomePageActivity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="drawer_open">Menu</string>
+    <string name="drawer_close">Home</string>
+    <string name="title_activity_job_list">Job Details</string>
+    <string name="save">Save</string>
+    <string name="title_activity_profile">ProfileActivity</string>
+    <string name="title_activity_test_for_login">TestForLogin</string>
+</resources>

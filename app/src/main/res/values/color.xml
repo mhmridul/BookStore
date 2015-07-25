@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="splash_back">#00944A</color>
+    <color name="second_spash_back">#57DCCB</color>
+    <color name="colorPrimary">#00944A</color>
+    <color name="colorPrimaryDark">#00955F</color>
+    <!--<color name="colorAccent">#00944A</color>-->
+    <color name="colorAccent">#FFFFFF</color>
+    <color name="button_back">#57DCCB</color>
+    <color name="button_text_color">#FFFFFF</color>
+    <color name="nav_text_color">#333</color>
+    <color name="tab_indication_color">#FFFFFF</color>
+    <color name="tab_text_color">#FFFFFF</color>
+    <color name="tab_selected_text_color">#FF0000</color>
+</resources>

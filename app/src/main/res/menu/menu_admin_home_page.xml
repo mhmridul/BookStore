@@ -1,0 +1,50 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.bookstore.MainActivity">
+    <item
+        android:id="@+id/action_home"
+        android:icon="@android:drawable/ic_menu_info_details"
+        android:title="Home"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_bookadd"
+        android:icon="@android:drawable/ic_menu_add"
+        android:title="Add Book"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_teacheradd"
+        android:icon="@android:drawable/ic_menu_add"
+        android:title="Add Teacher"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_agentadd"
+        android:icon="@android:drawable/ic_menu_add"
+        android:title="Add Agent"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_imei"
+        android:icon="@android:drawable/ic_menu_add"
+        android:title="Add IMEI"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_createjob"
+        android:icon="@android:drawable/ic_menu_add"
+        android:title="New Job"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_bookList"
+        android:icon="@android:drawable/ic_menu_view"
+        android:title="Book List"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_teacherList"
+        android:icon="@android:drawable/ic_menu_view"
+        android:title="Teacher List"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_agentList"
+        android:icon="@android:drawable/ic_menu_view"
+        android:title="Agent List"
+        app:showAsAction="always" />
+</menu>
